@@ -1,0 +1,31 @@
+# Generated at runtime -- reproducible via demo/run_demo.py, don't commit
+data/clean_dataset/
+data/poisoned_dataset/
+models/*.onnx
+models/*.onnx.meta.json
+output/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+ 
+# Virtual environments
+venv/
+.venv/
+env/
+ 
+# Streamlit local config/secrets
+.streamlit/secrets.toml
+ 
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ 
+# Packaging output (for the future exe build)
+build/
+dist/
+*.spec.bak
