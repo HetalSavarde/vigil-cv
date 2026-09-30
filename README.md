@@ -6,7 +6,7 @@
 
 > **Status:** in development. `main` currently holds a **demo prototype** (see [Demo prototype](#demo-prototype)). The full tool is being built on feature branches. The complete specification is in [`docs/`](docs/).
 
-**Demo video:** `[https://youtu.be/6rR1yf2nrDY]`
+**Demo video:** `https://youtu.be/6rR1yf2nrDY`
 
 ---
 
